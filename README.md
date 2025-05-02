@@ -20,7 +20,7 @@ This project was developed as part of the **[DrivenData Flu Shot Learning: Predi
 │   └── label_encoders.pkl             # LabelEncoders used for consistent preprocessing
 │
 ├── notebooks/
-│   ├── VaccinePrediction_Analysis.ipynb    # Data cleaning, analysis 
+│   ├── VaccinePrediction_Analysis.ipynb # Data cleaning, analysis 
 │   └── VaccinePrediction_Modeling.ipynb # Preprocessing, Model training, evaluation and submission
 │
 ├── submission_data/
